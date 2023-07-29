@@ -1,0 +1,82 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+.txtbtnGoo{
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+    border: 0;
+}
+.txtbtnFace{
+    border-radius: 50px;
+    background-color: rgb(27, 80, 196);
+    color: rgb(253, 253, 253);
+    border: 0;
+
+}
+.txtbtnRegistro{
+    border-radius: 50px;
+    background-color: rgb(4, 7, 12);
+    color: rgb(253, 253, 253);
+}
+.txtbtnIngresarr{
+    border-radius: 50px;
+    background-color: rgb(4, 5, 8);
+    color: rgb(253, 253, 253);
+    
+}
+.producto{
+    text-align: center;
+    border-style:dashed;
+    border-width: 2px;
+    margin: 10px auto;
+    padding: 10px;
+    width: 220px;
+    height: 360px;
+    border-color: rgb(251, 251, 251);
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+   
+}
+
+
+.resultado {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+body{
+    background-image: url("FONDITO.png");
+    background-size:200%;
+    padding: auto;
+    
+}
+header{
+    /* color:wheat; */
+    color: white;
+     height: auto;
+     width: auto;
+    /* background-image: url("/img/f1.jpg"); */
+    border-bottom-style: solid;
+    margin-bottom: 25px;
+ }
+ .contenedor {
+    border-radius: 50px;
+    background-color: rgb(98, 14, 14);
+    color: rgb(253, 253, 253);
+    border: 0;
+    background: rgb(0, 1, 0);
+  }
+  .titulo {
+    border-radius: 50px;
+    background-color: rgb(98, 14, 14);
+    color: rgb(89, 0, 0);
+    border: 0;
+    background: rgb(255, 255, 255);
+  }
